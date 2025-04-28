@@ -1,0 +1,7 @@
+n1 = int(input("digite seu numero:  "))
+if n1 > 0:
+    print('positivo')
+elif n1 < 0:
+    print('negativo')
+else:
+    print('igual a 0 ')
