@@ -1,1 +1,1 @@
-# POSITIVO-OU-NEGATIVO
+# positivo-ou - negativo
