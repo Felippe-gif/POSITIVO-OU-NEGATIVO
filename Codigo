@@ -1,3 +1,5 @@
+print('\n\t\t --- POSITIVO OU NEGATIVO --- \n')
+
 n1 = int(input("digite seu numero:  "))
 if n1 > 0:
     print('positivo')
